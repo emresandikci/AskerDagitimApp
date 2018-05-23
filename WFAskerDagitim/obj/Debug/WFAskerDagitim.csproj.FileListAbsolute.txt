@@ -1,0 +1,14 @@
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\bin\Debug\WFAskerDagitim.exe
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\bin\Debug\WFAskerDagitim.pdb
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.Form1.resources
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.Properties.Resources.resources
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.csproj.GenerateResource.Cache
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.exe
+c:\users\cyberpchome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.pdb
+C:\Users\CyberPcHome\documents\visual studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.csprojResolveAssemblyReference.cache
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.csproj.ResolveComReference.cache
+C:\Users\CyberPcHome\Documents\Visual Studio 2012\Projects\WFAskerDagitim\WFAskerDagitim\obj\Debug\WFAskerDagitim.Acilis.resources
